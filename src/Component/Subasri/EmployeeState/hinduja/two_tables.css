@@ -1,0 +1,79 @@
+.insured{
+    background-color: #f0f5f9;
+    width: 1250px;
+    font-size: 25px;
+    font-family: "Tinos", serif;
+    margin-left: 50px;
+    text-align: center;
+  
+  }
+
+  .i_form{
+    margin-left: 50px;
+    padding-top: 30px;
+    border-radius: 10px;
+   }
+   label {
+     width:  550px;
+     display: inline-block;
+     margin-top: 30px;
+     text-align: left;
+     font-size: 20px;
+  width: 461px;
+ 
+  font-family: "Roboto Slab", serif;
+   }
+
+   
+   input{
+     border-radius: 4px;
+     
+  }
+ .label{
+   width: 200px;
+   height: 30px;
+   border-width: thin;
+   color: black;
+   margin-left: -200px;
+ }
+ .labels{
+   background-color: #e7e7e7; 
+   color: black;
+   width: 200px;
+  
+ }
+ .gender{
+    margin-left: 110px;
+ }
+
+ .employee {
+    background-color: #f0f5f9;
+    width: 1250px;
+    font-size: 25px;
+    font-family: "Tinos", serif;
+    margin-left: 50px;
+    text-align: center;
+    margin-top: 50px;   
+ }
+.comment{
+    margin-left: 700px;
+    margin-top: -25px;
+    border-width: thin;
+   color: black;
+   border-radius: 10px;
+   
+  font-family: "Roboto Slab", serif;
+}
+.phase{
+  width: 650px;
+  font-size: 10px;
+    font-weight: bold;
+    background-color: #E1E5EA;;
+    margin-left: 300px;
+    font-family: "Roboto Slab", serif;
+    font-size: 20px;
+    padding-top: 10px;
+}
+textarea:focus{
+    outline: none;
+}

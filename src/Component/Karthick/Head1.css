@@ -1,0 +1,43 @@
+.mr-auto {
+    font-display: bold;
+    font-size: 17px;
+    font-weight: 410;
+    
+    font-display: initial;
+    font-display: swap;
+    font-family: 'Roboto';
+    font-style: normal;
+    src: url(https://fonts.gstatic.com/s/roboto/v27/KFOmCnqEu92Fr1Mu72xKOzY.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+    
+    
+}
+
+.navbar  {
+    border-bottom: transparent rgb(0, 234, 255) 5px;       
+}
+.head {
+    
+    font-weight: 700;
+    font-display: bold;
+    font-display: swap;
+    font-family: 'Roboto';
+    font-style: normal;
+    src: url(https://fonts.gstatic.com/s/roboto/v27/KFOmCnqEu92Fr1Mu72xKOzY.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+
+}
+
+.leftnav{
+    padding-left: 15%;
+    
+
+}
+
+
+
+
+
+/* .mr-auto:hover{
+    background-color: red;
+} */

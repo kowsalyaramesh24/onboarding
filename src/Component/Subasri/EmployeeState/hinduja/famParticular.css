@@ -1,0 +1,16 @@
+.f_head{
+    background-color: #f0f5f9;
+    width: 1250px;
+    font-size: 25px;
+    font-family: "Tinos", serif;
+    margin-left: 50px;
+    text-align: center;
+    margin-top: 100px;
+}
+.f_table{
+    width: 1200px;
+    height: 380px;
+    margin-left: 80px;
+    margin-right: 125px;
+  margin-top: 50px;
+}

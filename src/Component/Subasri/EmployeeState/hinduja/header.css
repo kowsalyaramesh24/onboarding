@@ -1,0 +1,68 @@
+img {
+    position: absolute;
+    left: 230px;
+    top: 10px;
+    height: 115px;
+    width: 300px;
+  }
+  .Header {
+    width: 750px;
+    height: 175px;
+    padding-top: 25px;
+  }
+  head {
+  border-radius: 20px;
+  left: 725px;
+  top: 0px;
+  width: 750px;
+  padding-left: 50px;
+  position: absolute;
+  height: 175px;
+  background-color: #1597bb;
+}
+
+.heads{
+    margin-left: 150px;
+    margin-right: 100px;
+    width: 1250px;
+    height: 200px;
+    margin-bottom: 100px;
+}
+.f_title{
+    text-decoration: underline;
+    position: relative;
+    left: 150px;
+}
+.side{
+    text-align: right;
+    position: absolute;
+    right: 250px;
+    top : 150px
+}
+.para{
+    position: relative;
+    left: 20px;
+
+    font-weight: 500;
+}
+.image{
+    position: absolute;
+    left: 70px;
+    top : 40px
+}
+.head h1 {
+    height: 110px;
+    border-radius: 20px;
+    background-color:#1597bb ;
+    padding-left: 0px;
+    left: 700px;
+    width: 500px;
+    padding-right: 50px;
+    color: white;
+    text-align: right;
+    position: absolute;
+    right: 300px;
+    top: -23px;
+    padding-top: 10px;
+    font-family: "Cinzel", serif;
+  }

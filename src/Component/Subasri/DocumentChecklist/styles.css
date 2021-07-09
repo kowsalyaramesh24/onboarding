@@ -1,0 +1,68 @@
+.one h2 {
+  text-align: center;
+  font-family: "Cinzel", "serif";
+}
+.container {
+  font-size: 20px;
+  transform: rotate(0deg);
+}
+
+.one {
+  background-color: beige;
+  width: 100%;
+  height: 40;
+  border: 2px solid black;
+}
+.two {
+  border: 2px solid black;
+  margin-top: 20px;
+  width: 100%;
+}
+.three {
+  margin-top: 20px;
+}
+.four {
+  margin-top: 20px;
+}
+.five {
+  margin-top: 20px;
+}
+.six {
+  margin-top: 20px;
+}
+.seven {
+  float: left;
+}
+.eight {
+  float: right;
+  margin-right: 170px;
+}
+
+#one th {
+  text-align: center;
+  border: 2px solid black;
+  background-color: #8fd6e1;
+  text-transform: uppercase;
+  font-family: "Tinos", serif;
+  padding: 0;
+}
+
+#one td {
+  text-align: left;
+  border: 2px solid black;
+  font-family: "Roboto Slab", serif;
+  padding: 0;
+}
+#one {
+  width: 100%;
+  border: 2px solid black;
+}
+#two {
+  width: 100%;
+}
+#three {
+  width: 100%;
+}
+#four {
+  width: 100%;
+}

@@ -1,0 +1,62 @@
+.n_head{
+    background-color: #f0f5f9;
+    width: 1250px;
+    font-size: 25px;
+    font-family: "Tinos", serif;
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 50px;
+}
+.c{
+  margin-left: 250px;
+  top: 0px;
+  width: 750px;
+  padding-left: 50px;
+  margin-top: 70px;
+  margin-bottom: 70px;
+  background-color:  #E1E5EA;
+}
+.nominee_table{
+    width: 1250px;
+    font-size: 15px;
+    font-family: "Tinos", serif;
+    margin-left: 50px;
+    text-align: center;
+    margin-top: 50px;
+    border-width: thin;
+    border-color: #f0f5f9;
+    
+}
+td,th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+    border-width: 2px;
+    border-color: black;
+    border: none;
+  }
+  .name{
+    font-size: 17px;
+    border-radius: 8px;
+    text-align: left;
+    padding: 1px;
+    border: 1px solid #ccc;
+    width: 100%;
+    height: 30px;
+    font-family: "Roboto Slab", serif;
+    text-transform: capitalize;
+  }
+ .declare{
+     text-align: left;
+     font-size: 17px;
+ }
+ .sign1{
+     text-align: left;
+     margin-top: 200px;
+     font-weight: 600;
+ }
+ .sign2{
+     text-align: right;
+     margin-top: -10px;
+     font-weight: bold;
+ }
